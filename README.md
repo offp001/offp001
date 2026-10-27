@@ -1,8 +1,8 @@
-<h1 align="left">Hey, I'm offp!</h1>
+ <h1 align="left">Hey, I'm offp!</h1>
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" />
+<img align="right" height="180" src="https://c.tenor.com/RJ_AVZxYupwAAAAC/tenor.gif" />
 
 ###
 
@@ -15,7 +15,24 @@ Im 17, Im from Turkey <br><br>
 ###
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Print(%22Hello+World!%22);Always+learning+new;Love+coding;i+use+arch+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Print(%22Hello+World!%22);Always+learning+new;Love+coding" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&width=220&lines=i+use+arch+btw" alt="Arch Linux" />
+</div>
+
+###
+
+<div align="left">
+  <table>
+    <tr>
+      <td><strong>Add me on Discord:</strong></td>
+      <td>
+        <a href="https://discord.com/users/1081565798918787142">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
@@ -60,5 +77,13 @@ Im 17, Im from Turkey <br><br>
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=offp001&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="github stats" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
+
+###
