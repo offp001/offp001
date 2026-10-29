@@ -7,10 +7,7 @@
 ###
 
 <p align="left">
-Hello, Im offp,<br>
-Im from Turkey<br>
-I love coding. Sometimes I play DDNet and Roblox<br>
-And I make some tools for these games or other tools for other things :)<br>
+coding for fun :)<br>
 </p>
 
 ###
