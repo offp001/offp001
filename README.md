@@ -1,4 +1,4 @@
- <h1 align="left">hey, i'm offp!</h1>
+<h1 align="left">Hey, I'm offp!</h1>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/c-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="20" alt="c logo" />
   <img width="4" />
   <img src="https://img.shields.io/badge/c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="20" alt="cplusplus logo" />
@@ -59,26 +59,29 @@
   <img src="https://img.shields.io/badge/bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" height="20" alt="bash logo" />
   <img width="4" />
   <img src="https://img.shields.io/badge/swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="20" alt="swift logo" />
-</div>
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=offp001&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offp001&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=offp001&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offp001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=offp001&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="github stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=offp001&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ###
 
@@ -100,10 +103,7 @@ copy paste
 it works
   ↓
 don't ask why
+
 ```
 
 **thanks for scrolling this far. now go touch some grass.**
-
-</div>
-
-###
