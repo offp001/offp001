@@ -2,21 +2,27 @@
 
 ###
 
-<img align="right" height="180" src="https://c.tenor.com/RJ_AVZxYupwAAAAC/tenor.gif" />
+## About Me
+
+```yaml
+username: offp
+os: Arch Linux
+interests:
+  - coding
+  - playing games
+  - my life is spotify
+currently: building cool stuff
+```
 
 ###
 
-<p align="left">
-coding for fun :)<br>
-</p>
+<img align="right" height="180" src="https://c.tenor.com/RJ_AVZxYupwAAAAC/tenor.gif" />
 
 ###
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Print(%22Hello+World!%22);Always+learning+new;Love+coding" alt="Typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&width=220&lines=i+use+arch+btw" alt="Arch Linux" />
-</div>
 
 ###
 
